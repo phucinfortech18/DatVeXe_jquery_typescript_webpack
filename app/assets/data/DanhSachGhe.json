@@ -1,0 +1,98 @@
+{
+    "data": [
+        { 
+            "SoGhe": 1, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 2, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 3, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 4, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 5, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 6, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 7, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 8, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 9, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 10, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 11, "Gia": 100, "TrangThai": true
+        },
+        {
+            "SoGhe": 12, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 13, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 14, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 15, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 16, "Gia": 100, "TrangThai": true
+        },
+        {
+            "SoGhe": 17, "Gia": 100, "TrangThai": true
+        },
+        {
+            "SoGhe": 18, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 19, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 20, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 21, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 22, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 23, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 24, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 25, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 26, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 27, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 28, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 29, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 30, "Gia": 100, "TrangThai": false
+        },
+        {
+            "SoGhe": 20, "Gia": 100, "TrangThai": true
+        }
+      
+    ]
+}
