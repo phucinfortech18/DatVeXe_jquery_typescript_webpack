@@ -1,0 +1,63 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Open Sans', sans-serif;
+}
+.ghe{
+    cursor: pointer;
+    color: #fff;
+    background: #9E9E9E;
+    margin: 5px;
+    border-radius: 5px;
+    width: 60px;
+}
+
+.gheDuocDat{
+    /* ghe dc nguoi khac dat truoc */
+    cursor: no-drop!important;
+    background: #e40000!important;
+}
+
+.gheDaDat{
+    background: #2196F3;
+}
+.box {
+    border: 1px solid #eee;
+    box-shadow: 0px 1px 14px 3px rgba(0,0,0,0.5);
+    border-radius: 10px;
+    padding: 30px 60px;
+    width: 900px;
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+}
+.box .title{
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+div#danhsachghe {
+    border-right: 1px solid darkgray;
+}
+.btn.focus, .btn:focus{
+    outline: none;
+    box-shadow: unset;
+}
+
+.item {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.item p {
+    padding: 0;
+    margin: 0;
+}
+
+.btn.class {
+    width: 32px;
+    height: 25px;
+    margin-right: 12px;
+}
